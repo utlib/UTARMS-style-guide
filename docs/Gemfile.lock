@@ -94,6 +94,8 @@ GEM
       rexml
     kramdown-parser-gfm (1.1.0)
       kramdown (~> 2.0)
+    kramdown-parser-gfm (1.1.0)
+      kramdown (~> 2.0)  
     liquid (4.0.4)
     listen (3.9.0)
       rb-fsevent (~> 0.10, >= 0.10.3)
@@ -156,10 +158,12 @@ PLATFORMS
 DEPENDENCIES
   bundler (>= 2.3.5)
   html-proofer (~> 5.0)
+  jekyll (~> 3.9.1)
   jekyll-github-metadata (>= 2.15)
   jekyll-include-cache
   jekyll-sitemap
   just-the-docs!
+  kramdown-parser-gfm
 
 BUNDLED WITH
    2.5.9
