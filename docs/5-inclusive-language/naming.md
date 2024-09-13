@@ -7,7 +7,7 @@ permalink: /5-inclusive-language/naming
 has_children: false
 ---
 
-### 5.4.3 Naming
+## 5.4.3 Naming
 
 Ensure you are using the most specific terms available for the individual or group you are describing, if this information is available and can be found[^36]. 
 
@@ -26,6 +26,6 @@ If a colonial anglicized name was previously used, research and use the Indigeno
 > 
 > Colonial anglicized name in the title of published work. In this instance preserve the title of the work but provide the traditional name(s) in the Note field of the description for optimal discoverability.
 
-### Notes
+### Endnotes
 
 [^36]: See also: “Table 6.1.3. Traditional names (endonyms) and appropriate descriptions of different Indigenous Peoples in Canada” in The Steering Committee on Canada’s Archives, “Reconciliation Framework: The Response to the Report of the Truth and Reconciliation Commission Taskforce,” 50–52.

@@ -18,12 +18,15 @@ Describe the subject’s work and the results of the work as opposed to using in
 | *She is recognized as one of the pioneers of the pulsed lasers.* | *She received the Nobel Prize in Physics in 2018, together with Gérard Mourou, for their work on pulsed lasers, specifically, chirped pulse amplification.* |
 | *Gordon was a preeminent composer of her time.*                  | *Gordon was recognized by her contemporaries as having tremendous influence on the music of the period.*                                                    |
 | *Horvath achieved success despite her disability.*               | *Horvath’s accomplishments were numerous.*                                                                                                                  |
-
-> ***Consider:*** Is this information aiding researchers, or does it reinforce power and privilege to justify the acquisition of the material or the prestige of an individual?[^13]
+{: .note-title }
+> Consider
+>
+> Is this information aiding researchers, or does it reinforce power and privilege to justify the acquisition of the material or the prestige of an individual?[^13]
 
 **Use repetition strategically.** The shift from physical finding aids to online databases has further emphasized the degree to which researchers navigate description in ways that are non-linear or view lower-level description that is detached from the hierarchy. While RAD recommends not repeating information between levels of description, UTARMS is strategic in considering if there is information that would be valuable to repeat given diverse routes of discovery.
 
-> ***Consider:***
+{: .note-title }
+> Consider
 >
 > * Will the researcher have enough context to reasonably understand descriptive content if it is not explained? For example, would an acronym be easily understood in context or should the full name be repeated?
 >    
@@ -36,7 +39,10 @@ Describe the subject’s work and the results of the work as opposed to using in
 
 **Describe relationships of power and use active voice to embed responsibility within the description.** Descriptions should acknowledge the types of power relationships present in the records or context of their creation. Use precise phrasing to describe the actions of individuals or effects of systems when oppression is a component of the records and context for their understanding.
 
-> ***Consider:*** How is an individual or community situated socially? What are the power relationships between the associated parties?
+{: .note-title }
+> Consider
+>
+> How is an individual or community situated socially? What are the power relationships between the associated parties?
 
 | **Instead of…**                                                                                                         | **Consider writing…**                                                                                                                          |
 | ----------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -48,14 +54,14 @@ Describe the subject’s work and the results of the work as opposed to using in
 
 **Focus on the humanity or personhood of an individual before their identity/ies.**[^14] Consider how your phrasing depicts an individual and reflects their agency.
     
-> [!IMPORTANT]
+{: .important }
 > Default to the use of proper nouns and avoid overuse of pronouns.
 
 | **Instead of…**              | **Consider writing…**                    |
 | ---------------------------- | ---------------------------------------- |
 | *They fought the University* | *Women professors fought the University* |
 
-> [!IMPORTANT]
+{: .important }
 > Avoid using descriptors as nouns
 
 | **Instead of…**                                      | **Consider writing…**                                                         |
@@ -68,9 +74,9 @@ Describe the subject’s work and the results of the work as opposed to using in
     
 * For example, if you are using a donor’s website to write a biographical note, cite it.
 
-### Notes
+### Endnotes
 
-[^12]: Charlotte Lellman et al., “Guidelines for Inclusive and Conscientious Description” (Center for the History of Medicine, Francis A. Countway Library of Medicine, Boston, Mass, May 2020), https://wiki.harvard.edu/confluence/display/hmschommanual/Guidelines+for+Inclusive+and+Conscientious+Description.
+[^12]: Charlotte Lellman et al., “Guidelines for Inclusive and Conscientious Description” (Center for the History of Medicine, Francis A. Countway Library of Medicine, Boston, Mass, May 2020), [https://wiki.harvard.edu/confluence/display/hmschommanual/Guidelines+for+Inclusive+and+Conscientious+Description](https://wiki.harvard.edu/confluence/display/hmschommanual/Guidelines+for+Inclusive+and+Conscientious+Description).
 
 [^13]: Archives for Black Lives in Philadelphia’s Anti-Racist Description Working Group, “Anti-Racist Description Resources.”
 

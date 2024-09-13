@@ -40,18 +40,18 @@ Follow [guidance for accessible finding aids](https://utlib.github.io/discover-a
 
 ### Additional resources:
 
-Brown, Lydia X. Z. “Ableism/Language” (July 2012) and “Violence in Language: Circling Back to Linguistic Ableism” (11 Feb. 2014). *Autistic Hoya — A Blog by Lydia X. Z. Brown (2011-2020)* (blog), https://www.autistichoya.com/p/ableist-words-and-terms-to-avoid.html and https://www.autistichoya.com/2014/02/violence-linguistic-ableism.html 
+Brown, Lydia X. Z. “Ableism/Language” (July 2012) and “Violence in Language: Circling Back to Linguistic Ableism” (11 Feb. 2014). *Autistic Hoya — A Blog by Lydia X. Z. Brown (2011-2020)* (blog), [https://www.autistichoya.com/p/ableist-words-and-terms-to-avoid.html](https://www.autistichoya.com/p/ableist-words-and-terms-to-avoid.html) and [https://www.autistichoya.com/2014/02/violence-linguistic-ableism.html](https://www.autistichoya.com/2014/02/violence-linguistic-ableism.html) 
 
-National Center on Disability and Journalism. “Disability Language Style Guide.” https://ncdj.org/style-guide/.
+National Center on Disability and Journalism. “Disability Language Style Guide.” [https://ncdj.org/style-guide/](https://ncdj.org/style-guide/).
 
-Autism Ontario. “Language Statement,” 2022. https://www.autismontario.com/sites/default/files/2022-12/Autism%20Ontario%20Language%20Statement-EN-FINAL-Sep2022.pdf.
+Autism Ontario. “Language Statement,” 2022. [https://www.autismontario.com/sites/default/files/2022-12/Autism%20Ontario%20Language%20Statement-EN-FINAL-Sep2022.pdf](https://www.autismontario.com/sites/default/files/2022-12/Autism%20Ontario%20Language%20Statement-EN-FINAL-Sep2022.pdf).
 
-Wise, Hannah. “A Toolkit for Newsrooms to Better Serve the Disability Community.” *Reynolds Journalism Institute, University of Missouri* (blog), April 4, 2022. https://rjionline.org/news/a-toolkit-for-newsrooms-to-better-serve-the-disability-community/.
+Wise, Hannah. “A Toolkit for Newsrooms to Better Serve the Disability Community.” *Reynolds Journalism Institute, University of Missouri* (blog), April 4, 2022. [https://rjionline.org/news/a-toolkit-for-newsrooms-to-better-serve-the-disability-community/](https://rjionline.org/news/a-toolkit-for-newsrooms-to-better-serve-the-disability-community/).
 
-Community Resistance Intimacy Project (CRIP). “Resources & Links.” https://www.criproject.com/resources.
+Community Resistance Intimacy Project (CRIP). “Resources & Links.” [https://www.criproject.com/resources](https://www.criproject.com/resources).
 
-### Notes
+### Endnotes
 
-[^26]: Be cautious of organizations that are run by individuals who do not have disabilities (sometimes charitable or advocacy organizations). Favour those that are community-led. For example: https://autisticadvocacy.org/about-asan/
+[^26]: Be cautious of organizations that are run by individuals who do not have disabilities (sometimes charitable or advocacy organizations). Favour those that are community-led. For example: [https://autisticadvocacy.org/about-asan/](https://autisticadvocacy.org/about-asan/)
 
 [^27]: Consider whether the individual is part of a community that adopts identity-first language, such as those in the Deaf, Autistic, blind or psychiatric survivor communities.

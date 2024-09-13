@@ -52,14 +52,14 @@ Avoid comments relating to an individual’s marital status or children within b
 
 Keep in mind power dynamics and relationships with regards to gender and family when it comes to the titling of fonds. For more information, see [8.1 Titling of fonds](/UTARMS-style-guide/8-mechanics/titling-of-fonds). This also applies to other description scenarios where power dynamics have shaped the relationships between creators. Similar consideration should be applied, and arrangement should follow suit.
 
-### Notes
+### Endnotes
 
 [^16]: The authors have chosen to address gender and sexual orientation as two distinct categories with the acknowledgement that these two aspects of identity sometimes overlap and are discussed together in different cultures and contexts.
 
 [^17]: See Egale’s resource ‘[Genderbread Person’](https://egale.ca/awareness/the-genderbread-person/), which identifies components of human identity as gender identity, gender expression, attraction, and assigned sex.
 
-[^18]: Caitlin Role and Eamon Schlotterback, “DTA Style Guide” (Digital Transgender Archive, Fall 2020), https://docs.google.com/document/d/1qou1h4DLFQEZg4BIvXiEpGy_TI3rDnrJsPXCsRL-Ki8/edit.
+[^18]: Caitlin Role and Eamon Schlotterback, “DTA Style Guide” (Digital Transgender Archive, Fall 2020), [https://docs.google.com/document/d/1qou1h4DLFQEZg4BIvXiEpGy_TI3rDnrJsPXCsRL-Ki8/edit](https://docs.google.com/document/d/1qou1h4DLFQEZg4BIvXiEpGy_TI3rDnrJsPXCsRL-Ki8/edit).
 
-[^19]: For additional information and guidance on recording former names, see: The Trans Metadata Collective et al., “Metadata Best Practices for Trans and Gender Diverse Resources” (Zenodo, June 22, 2022), https://doi.org/10.5281/zenodo.6687044.
+[^19]: For additional information and guidance on recording former names, see: The Trans Metadata Collective et al., “Metadata Best Practices for Trans and Gender Diverse Resources” (Zenodo, June 22, 2022), [https://doi.org/10.5281/zenodo.6687044](https://doi.org/10.5281/zenodo.6687044).
 
-[^20]: Danielle Robichaud, “Integrating Equity and Reconciliation Work into Archival Descriptive Practice at the University of Waterloo,” *Archivaria* 91 (June 2021): 88. https://archivaria.ca/index.php/archivaria/article/view/13789.
+[^20]: Danielle Robichaud, “Integrating Equity and Reconciliation Work into Archival Descriptive Practice at the University of Waterloo,” *Archivaria* 91 (June 2021): 88. [https://archivaria.ca/index.php/archivaria/article/view/13789](https://archivaria.ca/index.php/archivaria/article/view/13789).

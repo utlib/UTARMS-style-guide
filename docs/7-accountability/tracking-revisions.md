@@ -13,11 +13,12 @@ Revisions made to descriptions should be tracked in the Description Control Area
 
 * Explain the change being made, where it is being made, by whom, and when:
 
-> **Example:**[^47]
+{: .important-title }
+> Example[^47]
 > 
 > *Edits made to scope and content text for accuracy and to incorporate person-first terminology, Daniela Ansovini, May 2022*
 
-* ***Use the phrase “Edits made...”** to facilitate retrieval of edited fields at a later date.
+* **Use the phrase “Edits made...”** to facilitate retrieval of edited fields at a later date.
 
 * Use [Markdown](https://www.accesstomemory.org/en/docs/latest/user-manual/add-edit-content/formatting/) to create bulleted list if there are multiple entries in the field
 
@@ -49,6 +50,6 @@ Revisions made in *Discover Archives* should be mirrored in the attached finding
 
 * [Finding Aid Version control procedures](https://connect.library.utoronto.ca/UTARMS/Policies%2C%20Procedures%2C%20and%20Guides/Policy%20and%20Procedures%20Manual/3.%20ARRANGEMENT%20and%20DESCRIPTION/3-xx-Finding-Aid-Version-Control/) (UTARMS internal documentation)
 
-### Notes
+### Endnotes
 
-[^47]: Freda Hawkins fonds, B1995-0007, Series 3 and 5, https://discoverarchives.library.utoronto.ca/index.php/freda-hawkins-fonds
+[^47]: Freda Hawkins fonds, B1995-0007, Series 3 and 5, [https://discoverarchives.library.utoronto.ca/index.php/freda-hawkins-fonds](https://discoverarchives.library.utoronto.ca/index.php/freda-hawkins-fonds)

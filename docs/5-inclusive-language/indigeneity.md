@@ -5,6 +5,7 @@ nav_order: 4
 parent: 5. INCLUSIVE LANGUAGE
 permalink: /5-inclusive-language/indigeneity
 has_children: true
+has_toc: false
 ---
 
 ## 5.4 Indigeneity
@@ -17,12 +18,12 @@ To provide recommendations and guidance for UTARMS, we have consulted resources 
 
 [Indigenous Peoples: A Guide to Terminology](https://www.ictinc.ca/indigenous-peoples-a-guide-to-terminology) 
 
-UBC Indigenous Foundations. “Terminology.” https://indigenousfoundations.arts.ubc.ca/terminology/#firstnations.
+UBC Indigenous Foundations. “Terminology.” [https://indigenousfoundations.arts.ubc.ca/terminology/#firstnations](https://indigenousfoundations.arts.ubc.ca/terminology/#firstnations).
 
 Chelsea Vowel, *Indigenous Writes: A Guide to First Nations, Métis & Inuit Issues in Canada*. Winnipeg: HighWater Press, 2016.
 
 Gregory Younging, *Elements of Indigenous Style: A Guide for Writing by and About Indigenous Peoples*. Edmonton, Alberta: Brush Education, 2018.
 
-### Notes
+### Endnotes
 
 [^28]: [Turtle Island](https://www.thecanadianencyclopedia.ca/en/article/turtle-island) is the name for North America used by Indigenous peoples of the Northeastern Woodlands, including the Anishnaabe and Haudenosaunee, whose lands the University of Toronto occupy.

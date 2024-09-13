@@ -21,7 +21,9 @@ Omissions of ethnic and racial identities in finding aids created or updated aft
 
 * When describing photographs, there are situations where it is important to include the race of individuals in the photograph, even when this is a visual guess. In these scenarios, UTARMS has prioritized the surfacing of these individuals over the risk of getting it wrong. Guess responsibly by providing information about how or why you are making this presumption. Use wording such as "more than likely, given…”, “appears to be, based on…”, or more general terms (e.g. minoritized) if you are describing unidentified individuals or making an presumption about race.
 
-> **For example:**
+{: .important-title }
+> For example:
+>
 > *Group photograph of attendees at the 1924 International Congress of Mathematicians held in Toronto. Names unknown; appears to include twenty white men, two white women, and one Black man based on the archivist’s assessment of skin colour and dress.*
 
 * Racial information should be provided when it supports improved discoverability for minoritized groups. If a collection is not described to the item level, add a note at the fonds or series level. This information is included to improve discoverability for researchers.”
@@ -49,18 +51,18 @@ Below are some examples of general language suggestions. As there is ongoing deb
 
 **Additional resource:**
 
-Rachele Kanigel. “The Diversity Style Guide.” https://www.diversitystyleguide.com/.
+Rachele Kanigel. “The Diversity Style Guide.” [https://www.diversitystyleguide.com/](https://www.diversitystyleguide.com/).
 
 
-### Notes
+### Endnotes
 
-[^38]: Section 8.38, *The Chicago Manual of Style* 17th edition text, https://www.chicagomanualofstyle.org/book/ed17/part2/ch08/psec038.html
+[^38]: Section 8.38, *The Chicago Manual of Style* 17th edition text, [https://www.chicagomanualofstyle.org/book/ed17/part2/ch08/psec038.html](https://www.chicagomanualofstyle.org/book/ed17/part2/ch08/psec038.html)
 
 [^39]: See the [Diversity Style Guide](https://www.diversitystyleguide.com/glossary/white-white/), the [National Association of Black Journalists *Statement of Capitalization*](https://nabjonline.org/blog/nabj-statement-on-capitalizing-black-and-other-racial-identifiers/), and the Centre for the Study of Social Policy’s article *[Recognizing Race in Language: Why Capitalize “Black” and “White”](https://cssp.org/2020/03/recognizing-race-in-language-why-we-capitalize-black-and-white/)* for background on these discussions.
 
-[^40]: See a more complete description of the regional and cultural distinctions between Pashtun and Pathan in Tilak Devasher’s article “The Pashtuns: Understanding History and Culture.” Defence and Diplomacy Journal, vol. 12, no. 2, 2023, pp. 15-27
+[^40]: See a more complete description of the regional and cultural distinctions between Pashtun and Pathan in Tilak Devasher’s article “The Pashtuns: Understanding History and Culture.” *Defence and Diplomacy Journal*, vol. 12, no. 2, 2023, pp. 15-27
 
-[^41]: University of Arizona University Libraries Antiracist Language Guide includes a list of terms with racist origins: https://lib.arizona.edu/employees/anti-racist-guide
+[^41]: University of Arizona University Libraries Antiracist Language Guide includes a list of terms with racist origins: [https://lib.arizona.edu/employees/anti-racist-guide](https://lib.arizona.edu/employees/anti-racist-guide)
 
 [^42]: The suggestions provided in this guide each carry shifting meanings in context. For example, avoid using the terms BIPOC or IBPOC, unless you are referring to people of colour collectively and wanting to highlight Black and Indigenous oppressions. For singular uses, use the adjectives minoritized or racialized. Similarly, depending on its use, the term *racialized* can have an unintended effect of ignoring whiteness as a racial category, in which *minoritized* may be a more appropriate term.
 

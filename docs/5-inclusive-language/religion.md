@@ -3,7 +3,7 @@ layout: default
 title: 5.8 Religion
 nav_order: 8
 parent: 5. INCLUSIVE LANGUAGE
-permalink: /5-inclusive-language/socioeconomic-inclusion
+permalink: /5-inclusive-language/religion
 has_children: false
 ---
 
@@ -21,10 +21,10 @@ As with other components of identity, archivists should follow direct guidance f
 
 ### Additional resources:
 
-Religion Link (Religion News Foundation), https://religionlink.com/
+Religion Link (Religion News Foundation), [https://religionlink.com/](https://religionlink.com/)
 
-“Ethnic Media & Diversity Style Guide.” New Canadian Media, 2016. https://newcanadianmedia.ca/wp-content/uploads/2019/03/Ethnic-Media-Style-Guide.pdf.
+“Ethnic Media & Diversity Style Guide.” New Canadian Media, 2016. [https://newcanadianmedia.ca/wp-content/uploads/2019/03/Ethnic-Media-Style-Guide.pdf](https://newcanadianmedia.ca/wp-content/uploads/2019/03/Ethnic-Media-Style-Guide.pdf).
 
-### Notes
+### Endnotes
 
-[^45]: “Inclusive Writing: Religion, Faith and Belief,” University of Bristol - Style Guides, https://www.bristol.ac.uk/style-guides/writing/inclusive/religion-faith-belief/.
+[^45]: “Inclusive Writing: Religion, Faith and Belief,” University of Bristol - Style Guides, [https://www.bristol.ac.uk/style-guides/writing/inclusive/religion-faith-belief/](https://www.bristol.ac.uk/style-guides/writing/inclusive/religion-faith-belief/).

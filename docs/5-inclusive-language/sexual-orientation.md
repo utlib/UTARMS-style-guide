@@ -15,8 +15,9 @@ Refer to the direction given by the records’ creator in terms of whether sexua
 
 Choose terminology used by the individual(s) you are addressing. Terms used by some individuals may not be used by others and may be considered offensive. For example, the term *queer* has been reclaimed by some, though remains problematic to others. When there is a concern that the term might be offensive, include contextual information and an alternative term in note, if not integrated elsewhere.
 
-**For example, write:**
-
+{: .important-title }
+> For example, write:
+>
 > *Prof. York was a queer professor and religious scholar.*
 > 
 > Note: Prof. York used the term queer to describe himself. His work may be of interest to researchers also looking for material on gay relationships and culture.
@@ -34,18 +35,18 @@ Language may change over time, and archivist-derived terminology will need to be
 
 ### Additional resources:
 
-“Homosaurus: An International LGBTQ+ Linked Data Vocabulary.” https://homosaurus.org/.
+“Homosaurus: An International LGBTQ+ Linked Data Vocabulary.” [https://homosaurus.org/](https://homosaurus.org/).
 
-The 519. “The 519 Glossary of Terms,” February 2020. https://www.the519.org/education-training/glossary/.
+The 519. “The 519 Glossary of Terms,” February 2020. [https://www.the519.org/education-training/glossary/](https://www.the519.org/education-training/glossary/).
 
-### Notes
+### Endnotes
 
 [^21]: The authors have chosen to address gender and sexual orientation as two distinct categories with the acknowledgement that these two aspects of identity sometimes overlap and are discussed together in different cultures and contexts.
 
-[^22]: Western Libraries, “Western Libraries Inclusive Language Guide” (Western Libraries, Western University, 2022), 1, https://ir.lib.uwo.ca/wllanguageguide/1/; “Homosaurus: An International LGBTQ+ Linked Data Vocabulary,” accessed July 15, 2024, https://homosaurus.org/.
+[^22]: Western Libraries, “Western Libraries Inclusive Language Guide” (Western Libraries, Western University, 2022), 1, [https://ir.lib.uwo.ca/wllanguageguide/1/](https://ir.lib.uwo.ca/wllanguageguide/1/); “Homosaurus: An International LGBTQ+ Linked Data Vocabulary,” accessed July 15, 2024, [https://homosaurus.org/](https://homosaurus.org/).
 
-[^23]: “Lesbians,” in *Homosaurus*, January 24, 2022, https://homosaurus.org/v3/homoit0000556
+[^23]: “Lesbians,” in *Homosaurus*, January 24, 2022, [https://homosaurus.org/v3/homoit0000556](https://homosaurus.org/v3/homoit0000556)
 
-[^24]: “Bi+ People,” in *Homosaurus*, December 8, 2021, https://homosaurus.org/v3/homoit0000108.
+[^24]: “Bi+ People,” in *Homosaurus*, December 8, 2021, [https://homosaurus.org/v3/homoit0000108](https://homosaurus.org/v3/homoit0000108).
 
-[^25]: Note that 2S or “Two-spirit” refers to a person who identifies as having both a masculine and a feminine spirit and is used by some Indigenous people to describe their sexual, gender and/or spiritual identity. Definition taken directly from: “Two-Spirit Community,” Re:searching for LGBTQ2S+ Health, n.d., https://lgbtqhealth.ca/community/two-spirit.php
+[^25]: Note that 2S or “Two-spirit” refers to a person who identifies as having both a masculine and a feminine spirit and is used by some Indigenous people to describe their sexual, gender and/or spiritual identity. Definition taken directly from: “Two-Spirit Community,” Re:searching for LGBTQ2S+ Health, n.d., [https://lgbtqhealth.ca/community/two-spirit.php](https://lgbtqhealth.ca/community/two-spirit.php)

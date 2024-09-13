@@ -24,10 +24,10 @@ As an example of this type of reconsideration, in the Steering Committee on Cana
 
 Taking this as an example, archivists should think holistically about how the records can be treated and explore how description, arrangement, access and / or other tools can be used to support approaches that suit records use and content.
 
-### Notes
+### Endnotes
 
-[^4]: TK (Traditional Knowledge) & BC (Biocultural) Labels are an example of an Indigenous-lead initiative supporting the inclusion of local protocols for access and use to cultural heritage that is digitally circulating outside community contexts. For more information see the Local Contexts website: https://localcontexts.org/. See also the blog post by Tara Robertson, “Digitization: Just Because You Can, Doesn’t Mean You Should,” *Tara Robertson Consulting* (blog), March 21, 2016, https://tararobertson.ca/2016/oob/. 
+[^4]: TK (Traditional Knowledge) & BC (Biocultural) Labels are an example of an Indigenous-lead initiative supporting the inclusion of local protocols for access and use to cultural heritage that is digitally circulating outside community contexts. For more information see the Local Contexts website: [https://localcontexts.org/](https://localcontexts.org/). See also the blog post by Tara Robertson, “Digitization: Just Because You Can, Doesn’t Mean You Should,” *Tara Robertson Consulting* (blog), March 21, 2016, https://tararobertson.ca/2016/oob/(https://tararobertson.ca/2016/oob/). 
 
-[^5]: B. M. Watson, “Advancing Equitable Cataloging,” *Proceedings from North American Symposium on Knowledge Organization (NASKO)* 8 (2021): 7–8, https://doi.org/10.7152/nasko.v8i1.15887.
+[^5]: B. M. Watson, “Advancing Equitable Cataloging,” *Proceedings from North American Symposium on Knowledge Organization (NASKO)* 8 (2021): 7–8, [https://doi.org/10.7152/nasko.v8i1.15887](https://doi.org/10.7152/nasko.v8i1.15887).
 
-[^6]: The Steering Committee on Canada’s Archives, “Reconciliation Framework: The Response to the Report of the Truth and Reconciliation Commission Taskforce,” 2022, 55, https://archives2026.files.wordpress.com/2022/02/reconciliationframeworkreport_en.pdf.
+[^6]: The Steering Committee on Canada’s Archives, “Reconciliation Framework: The Response to the Report of the Truth and Reconciliation Commission Taskforce,” 2022, 55, [https://archives2026.files.wordpress.com/2022/02/reconciliationframeworkreport_en.pdf](https://archives2026.files.wordpress.com/2022/02/reconciliationframeworkreport_en.pdf).

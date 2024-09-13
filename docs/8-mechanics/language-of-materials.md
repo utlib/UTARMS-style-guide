@@ -15,6 +15,7 @@ As of October 2022, at the fonds and series level, enter the language of the rec
 
 Enter any further pertinent information in the *Language and script notes field*. 
 
-{: .note-title }
+{: .important-title }
 > EXAMPLE
+>
 > Letters found in B2012-0032/004 are predominantly in German. Other records are in English.

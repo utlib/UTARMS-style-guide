@@ -5,6 +5,7 @@ nav_order: 4
 parent: 7. ACCOUNTABILITY AND DOCUMENTING CHANGES
 permalink: /7-accountability/making-changes
 has_children: true
+has_toc: false
 ---
 
 ## 7.4 Making changes

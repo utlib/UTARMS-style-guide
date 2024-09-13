@@ -17,7 +17,7 @@ As of 2024, archivists are encouraged to include the following components within
 
 * Direction for researcher questions (e.g. “Please contact the University Archivist for additional information”).
 
-{: .note-title }
+{: .important-title }
 > EXAMPLE - [J.M. Beattie fonds](https://discoverarchives.library.utoronto.ca/index.php/j-m-beattie-fonds)
 >
 > All files are open, with the exception of:

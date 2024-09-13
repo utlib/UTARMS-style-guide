@@ -37,6 +37,6 @@ Many of the recommendations in this guide refer to consultation as a method to l
 
 * If a community or individual declines working with UTARMS, consider whether the reason impacts the context or understanding of the records (for example, if refusal is based on a position of protest) and should be noted in the description with permission. Consider whether refusal affects the necessary knowledge required to ethically make the material available to researchers.
 
-### Notes
+### Endnotes
 
-[^3]: For an example of a framework for meaningful consultation, see the 4Rs Youth Movement’s Framework for Cross-Cultural Dialogue, https://4rsyouth.ca/our-framework/
+[^3]: For an example of a framework for meaningful consultation, see the 4Rs Youth Movement’s Framework for Cross-Cultural Dialogue, [https://4rsyouth.ca/our-framework/](https://4rsyouth.ca/our-framework/)

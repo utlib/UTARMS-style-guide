@@ -40,10 +40,10 @@ When applicable, we use “white” as an ethnic and racial identity to name whi
 
 ## 6.3 Birth names
 
-In biographical histories, where appropriate (see [Section 5.1](/UTARMS-style-guide/5-inclusive-language/gender-and-family.md))and relevant, include the individual’s birth name in the opening sentence.
+In biographical histories, where appropriate (see [Section 5.1](/UTARMS-style-guide/5-inclusive-language/gender-and-family))and relevant, include the individual’s birth name in the opening sentence.
 
 > *Adena Black, née Adena Nevitt, was the spouse of Davidson Black. She received her BA in 1904 from Trinity College...*
 
-### Notes
+### Endnotes
 
-[^46]: This policy was inspired by those of the UNC Libraries: Anne Wells and Nancy Kaiser, “Style Guide” (UNC Libraries, 2020), https://github.com/UNC-Libraries/TS-Archival-Procedures-Manual/blob/main/Style%20Guide.md.
+[^46]: This policy was inspired by those of the UNC Libraries: Anne Wells and Nancy Kaiser, “Style Guide” (UNC Libraries, 2020), [https://github.com/UNC-Libraries/TS-Archival-Procedures-Manual/blob/main/Style%20Guide.md](https://github.com/UNC-Libraries/TS-Archival-Procedures-Manual/blob/main/Style%20Guide.md).

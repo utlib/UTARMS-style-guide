@@ -7,7 +7,7 @@ permalink: /5-inclusive-language/syllabics
 has_children: false
 ---
 
-### 5.4.4 Syllabics
+## 5.4.4 Syllabics
 
 * Identify and use culturally appropriate orthographies and, where possible, include [*<span class="underline">Canadian Aboriginal Syllabics</span>*](https://en.wikipedia.org/wiki/Canadian_Aboriginal_syllabics).  
 

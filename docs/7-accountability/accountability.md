@@ -4,6 +4,7 @@ title: 7. ACCOUNTABILITY AND DOCUMENTING CHANGES
 nav_order: 7
 permalink: /7-accountability
 has_children: true
+has_toc: false
 ---
 
 # 7. Accountability and documenting changes

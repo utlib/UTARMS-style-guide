@@ -4,6 +4,7 @@ title: 5. INCLUSIVE LANGUAGE
 nav_order: 5
 permalink: /5-inclusive-language
 has_children: true
+has_toc: false
 ---
 
 # 5. Inclusive language 
@@ -22,8 +23,8 @@ The following section outlines considerations and suggestions when describing pa
     
   * Note that terms included in the *Instead of...* categories in the tables below should be selected if used by the individual they are describing.
 
-* When necessary, be transparent about presumptions made by using phrases such as "more than likely, given… " or “appears to be based on…” It is critical to provide reasoning for any presumption made (see [section 5.5](/UTARMS-style-guide/5-inclusive-language/migration-and-geographic-terms.md) for example)
+* When necessary, be transparent about presumptions made by using phrases such as "more than likely, given… " or “appears to be based on…” It is critical to provide reasoning for any presumption made (see [section 5.5](/UTARMS-style-guide/5-inclusive-language/migration-and-geographic-terms) for example)
 
-### Notes
+### Endnotes
 
-[^15]: Person-first language centres the individual recognizing there is more to each person than their descriptors; see: GBH, “Inclusive Language Guidelines - 2022 Edition,” 2022, https://cdn.brandfolder.io/L9KW4PV0/at/bscbjf5khqcfcnfc7rfsgh3/Inclusive_Language_Guidelines.pdf.
+[^15]: Person-first language centres the individual recognizing there is more to each person than their descriptors; see: GBH, “Inclusive Language Guidelines - 2022 Edition,” 2022, [https://cdn.brandfolder.io/L9KW4PV0/at/bscbjf5khqcfcnfc7rfsgh3/Inclusive_Language_Guidelines.pdf](https://cdn.brandfolder.io/L9KW4PV0/at/bscbjf5khqcfcnfc7rfsgh3/Inclusive_Language_Guidelines.pdf).

@@ -6,7 +6,7 @@ parent: 5.4 Indigeneity
 permalink: /5-inclusive-language/indigenous-consultation
 has_children: false
 ---
-### 5.4.1 Consultation
+## 5.4.1 Consultation
 
 When describing material related to Indigenous communities, key factors such as privacy, ownership, access, and permissions are crucial. These communities may have specific rules governing the dissemination of information, including restrictions based on timing, recipient’s identity, or gender. Cultural knowledge might be exclusively shared within the community under certain conditions. Therefore, it’s advisable to directly consult with the concerned groups when organizing and describing a collection containing Indigenous materials or knowledge. See [Section 2.1](/UTARMS-style-guide/2-initial-questions/consultation) for some initial considerations. Further questions to ask include:
 
@@ -18,6 +18,6 @@ When describing material related to Indigenous communities, key factors such as 
 
 * For a specific collection, where are other related archival resources held? Are there other locations that individuals would look for this material, and can the descriptions be connected, referenced or highlighted to improve discoverability? Actively gather information to accompany Indigenous archival collections.
 
-### Notes
+### Endnotes
 
 [^29]: As an example, see the [First Nations Principles of OCAP (Ownership, Control, Access, and Possession)](https://fnigc.ca/ocap-training/) which helps to guide how First Nations’ data and information should be collected, protected, used, or shared.
