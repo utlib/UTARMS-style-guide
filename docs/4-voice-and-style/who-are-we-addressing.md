@@ -30,13 +30,10 @@ wide variety of potential users.
 > 
 > *In response to the philosophical debates surrounding the objectivity of scientific inquiry and theory, often referred to as ‘the science wars’, Dr. Hacking published* The Social Construction of What? *(1999).*
 >
-> {: .opaque }
-> <div markdown="block">
 > {: .note-title }
 > Caution
 >
 > Consider the cultural dimensions of what you think requires explanation as these are also indicators of who we perceive our audience to be and whose experience might be centred within our descriptions.
-> </div>
 
 * **Be aware and avoid language that devalues non-Western traditions, knowledge, values, or practices.**[^10]
 
