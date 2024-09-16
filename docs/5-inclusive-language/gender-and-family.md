@@ -58,8 +58,8 @@ Keep in mind power dynamics and relationships with regards to gender and family 
 
 [^17]: See Egale’s resource ‘[Genderbread Person’](https://egale.ca/awareness/the-genderbread-person/), which identifies components of human identity as gender identity, gender expression, attraction, and assigned sex.
 
-[^18]: Caitlin Role and Eamon Schlotterback, “DTA Style Guide” (Digital Transgender Archive, Fall 2020), [https://docs.google.com/document/d/1qou1h4DLFQEZg4BIvXiEpGy_TI3rDnrJsPXCsRL-Ki8/edit](https://docs.google.com/document/d/1qou1h4DLFQEZg4BIvXiEpGy_TI3rDnrJsPXCsRL-Ki8/edit).
+[^18]: Caitlin Role and Eamon Schlotterback, “DTA Style Guide” (Digital Transgender Archive, Fall 2020), [https://docs.google.com/document/d/1qou1h4DLFQEZg4BIvXiEpGy_TI3rDnrJsPXCsRL-Ki8/edit](https://docs.google.com/document/d/1qou1h4DLFQEZg4BIvXiEpGy_TI3rDnrJsPXCsRL-Ki8/edit)
 
-[^19]: For additional information and guidance on recording former names, see: The Trans Metadata Collective et al., “Metadata Best Practices for Trans and Gender Diverse Resources” (Zenodo, June 22, 2022), [https://doi.org/10.5281/zenodo.6687044](https://doi.org/10.5281/zenodo.6687044).
+[^19]: For additional information and guidance on recording former names, see: The Trans Metadata Collective et al., “Metadata Best Practices for Trans and Gender Diverse Resources” (Zenodo, June 22, 2022), [https://doi.org/10.5281/zenodo.6687044](https://doi.org/10.5281/zenodo.6687044)
 
-[^20]: Danielle Robichaud, “Integrating Equity and Reconciliation Work into Archival Descriptive Practice at the University of Waterloo,” *Archivaria* 91 (June 2021): 88. [https://archivaria.ca/index.php/archivaria/article/view/13789](https://archivaria.ca/index.php/archivaria/article/view/13789).
+[^20]: Danielle Robichaud, “Integrating Equity and Reconciliation Work into Archival Descriptive Practice at the University of Waterloo,” *Archivaria* 91 (June 2021): 88. [https://archivaria.ca/index.php/archivaria/article/view/13789](https://archivaria.ca/index.php/archivaria/article/view/13789)

@@ -56,12 +56,12 @@ Information about these considerations should be recorded and filed within the c
 
 ### Endnotes
 
-[^7]: Technical Services Department, David M. Rubenstein Rare Book & Manuscript Library, “How We Describe” (Duke University, June 2021), [https://library.duke.edu/sites/default/files/rubenstein/pdf/HowWeDescribe_2021_06.pdf](https://library.duke.edu/sites/default/files/rubenstein/pdf/HowWeDescribe_2021_06.pdf).
+[^7]: Technical Services Department, David M. Rubenstein Rare Book & Manuscript Library, “How We Describe” (Duke University, June 2021), [https://library.duke.edu/sites/default/files/rubenstein/pdf/HowWeDescribe_2021_06.pdf](https://library.duke.edu/sites/default/files/rubenstein/pdf/HowWeDescribe_2021_06.pdf)
 
 [^8]: Correct spelling and grammar refers to writing that demonstrates a level of care that is put into describing individuals, communities, contexts, and records in a manner that reflects their value. Archivists should similarly be attentive to preserving community terminology, slang, and vernacular when it is important in maintaining the nuance and implications of who or what is being described.
 
-[^9]: Archives for Black Lives in Philadelphia’s Anti-Racist Description Working Group, “Anti-Racist Description Resources,” October 2019, [https://archivesforblacklives.files.wordpress.com/2019/10/ardr_final.pdf](https://archivesforblacklives.files.wordpress.com/2019/10/ardr_final.pdf).
+[^9]: Archives for Black Lives in Philadelphia’s Anti-Racist Description Working Group, “Anti-Racist Description Resources,” October 2019, [https://archivesforblacklives.files.wordpress.com/2019/10/ardr_final.pdf](https://archivesforblacklives.files.wordpress.com/2019/10/ardr_final.pdf)
 
-[^10]: Jarrett M. Drake, “RadTech Meets RadArch: Towards A New Principle for Archives and Archival Description,” *On Archivy* (blog), April 7, 2016, [https://medium.com/on-archivy/radtech-meets-radarch-towards-a-new-principle-for-archives-and-archival-description-568f133e4325](https://medium.com/on-archivy/radtech-meets-radarch-towards-a-new-principle-for-archives-and-archival-description-568f133e4325).
+[^10]: Jarrett M. Drake, “RadTech Meets RadArch: Towards A New Principle for Archives and Archival Description,” *On Archivy* (blog), April 7, 2016, [https://medium.com/on-archivy/radtech-meets-radarch-towards-a-new-principle-for-archives-and-archival-description-568f133e4325](https://medium.com/on-archivy/radtech-meets-radarch-towards-a-new-principle-for-archives-and-archival-description-568f133e4325)
 
 [^11]: This can be through consultation or other means, such as secondary source research. It is up to archivist discretion based on content, sensitivity, volume, and level of description of specific records being worked with. Also consider the availability of information that doesn’t require community labour. It can be useful to consider a community's autonym or endonym, which is the term for a place, group of people, or language that the community itself uses. By contrast an exonym is a term used externally and should be evaluated for any connotations it may carry and its usefulness if included as a secondary term for discoverability.

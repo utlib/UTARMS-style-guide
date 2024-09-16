@@ -7,7 +7,7 @@ permalink: /2-initial-questions/consultation
 has_children: false
 ---
 
-### 2.1 Consultation
+## 2.1 Consultation
 
 Many of the recommendations in this guide refer to consultation as a method to learn about the appropriateness of terms, approaches, or access conditions directly from individuals belonging to the communities represented. To preface the recommendations below, readers should note that this type of consultation is distinct from researching available resources, which can be done independently, and instead refers specifically to reaching out to community members. While approaches to consultation may vary, below are some considerations to think of beforehand [^3]:
 

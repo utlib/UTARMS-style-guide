@@ -46,4 +46,4 @@ In biographical histories, where appropriate (see [Section 5.1](/UTARMS-style-gu
 
 ### Endnotes
 
-[^46]: This policy was inspired by those of the UNC Libraries: Anne Wells and Nancy Kaiser, “Style Guide” (UNC Libraries, 2020), [https://github.com/UNC-Libraries/TS-Archival-Procedures-Manual/blob/main/Style%20Guide.md](https://github.com/UNC-Libraries/TS-Archival-Procedures-Manual/blob/main/Style%20Guide.md).
+[^46]: This policy was inspired by those of the UNC Libraries: Anne Wells and Nancy Kaiser, “Style Guide” (UNC Libraries, 2020), [https://github.com/UNC-Libraries/TS-Archival-Procedures-Manual/blob/main/Style%20Guide.md](https://github.com/UNC-Libraries/TS-Archival-Procedures-Manual/blob/main/Style%20Guide.md)

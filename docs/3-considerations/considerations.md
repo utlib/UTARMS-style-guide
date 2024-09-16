@@ -13,13 +13,13 @@ While this document focuses on archival description, it is important to keep in 
 As an example of this type of reconsideration, in the Steering Committee on Canada’s Archives’ *Reconciliation Framework: The Response to the Report of the Truth and Reconciliation Commission Taskforce,* archivists are encouraged to reassess arrangement structures based on the idea of individual authorship.[^6] They suggest:
 
 > *Current archival arrangement structures are based on the idea of individual authorship. Engage in critical discourse to understand the implications of this assumption when working with Indigenous-related archival materials. Questions to consider could include, but are not limited to:*
-
+>
 > * *What happens to our structural understanding of archival materials once the concept of creation is redefined and authorship is assigned to an Indigenous community rather than to the archives or individual creator?*
-
+>
 > * *Are there methods in Indigenous research methodology or via the > mapping of Indigenous worldviews through which we can better > understand change to arrangement practices?*
-
+>
 > * *Is it acceptable to conceptualize arrangement in its original > documented colonial contexts of creation?*
-
+>
 > * *Could data visualization tools support a feasible alternative > arrangement model?*
 
 Taking this as an example, archivists should think holistically about how the records can be treated and explore how description, arrangement, access and / or other tools can be used to support approaches that suit records use and content.

@@ -22,9 +22,9 @@ Socioeconomic status is a complex grouping of factors that indicate social statu
 
 ### Additional resources:
 
-Kreckmann, Alison. “Socioeconomic Status.” In *The ACS Guide to Scholarly Communication*. ACS Guide to Scholarly Communication. American Chemical Society, 2019. [https://doi.org/10.1021/acsguide.60109](https://doi.org/10.1021/acsguide.60109).
+Kreckmann, Alison. “Socioeconomic Status.” In *The ACS Guide to Scholarly Communication*. ACS Guide to Scholarly Communication. American Chemical Society, 2019. [https://doi.org/10.1021/acsguide.60109](https://doi.org/10.1021/acsguide.60109)
 
-DC Fiscal Policy Institute. “DCFPI Style Guide for Inclusive Language,” 2017. [https://www.dcfpi.org/wp-content/uploads/2017/12/Style-Guide-for-Inclusive-Language_Dec-2017.pdf](https://www.dcfpi.org/wp-content/uploads/2017/12/Style-Guide-for-Inclusive-Language_Dec-2017.pdf).
+DC Fiscal Policy Institute. “DCFPI Style Guide for Inclusive Language,” 2017. [https://www.dcfpi.org/wp-content/uploads/2017/12/Style-Guide-for-Inclusive-Language_Dec-2017.pdf](https://www.dcfpi.org/wp-content/uploads/2017/12/Style-Guide-for-Inclusive-Language_Dec-2017.pdf)
 
 ### Endnotes
 

@@ -49,12 +49,12 @@ Avoid phrasing that is possessive and / or links groups with state entities with
 
 [^30]: Government of Canada definitions can be read here: [https://www.sac-isc.gc.ca/eng/1100100032463/1572459644986#sec1](https://www.sac-isc.gc.ca/eng/1100100032463/1572459644986#sec1)
 
-[^31]: “Glossary,” It’s Our Time: The AFN Education Toolkit, [https://education.afn.ca/afntoolkit/web-modules/plain-talk-6-residential-schools/glossary/](https://education.afn.ca/afntoolkit/web-modules/plain-talk-6-residential-schools/glossary/).
+[^31]: “Glossary,” It’s Our Time: The AFN Education Toolkit, [https://education.afn.ca/afntoolkit/web-modules/plain-talk-6-residential-schools/glossary/](https://education.afn.ca/afntoolkit/web-modules/plain-talk-6-residential-schools/glossary/)
 
 [^32]: Métis National Council, “Citizenship”, [https://www.metisnation.ca/about/citizenship](https://www.metisnation.ca/about/citizenship)
 
 [^33]: Inuit Tapariit Kanatami, “About Canadian Inuit”, [https://www.itk.ca/about-canadian-inuit/](https://www.itk.ca/about-canadian-inuit/)
 
-[^34]: “Terminology,” UBC Indigenous Foundations, accessed July 15, 2024, [https://indigenousfoundations.arts.ubc.ca/terminology/#firstnations](https://indigenousfoundations.arts.ubc.ca/terminology/#firstnations).
+[^34]: “Terminology,” UBC Indigenous Foundations, accessed July 15, 2024, [https://indigenousfoundations.arts.ubc.ca/terminology/#firstnations](https://indigenousfoundations.arts.ubc.ca/terminology/#firstnations)
 
-[^35]: For more information see: “Hereditary Chiefs vs. Elected Chiefs: What’s the Difference?,” *Indigenous Corporate Training Inc.* (blog), May 17, 2021, [https://www.ictinc.ca/blog/hereditary-chiefs-vs-elected-chiefs](https://www.ictinc.ca/blog/hereditary-chiefs-vs-elected-chiefs).
+[^35]: For more information see: “Hereditary Chiefs vs. Elected Chiefs: What’s the Difference?,” *Indigenous Corporate Training Inc.* (blog), May 17, 2021, [https://www.ictinc.ca/blog/hereditary-chiefs-vs-elected-chiefs](https://www.ictinc.ca/blog/hereditary-chiefs-vs-elected-chiefs)

@@ -18,6 +18,7 @@ Describe the subject’s work and the results of the work as opposed to using in
 | *She is recognized as one of the pioneers of the pulsed lasers.* | *She received the Nobel Prize in Physics in 2018, together with Gérard Mourou, for their work on pulsed lasers, specifically, chirped pulse amplification.* |
 | *Gordon was a preeminent composer of her time.*                  | *Gordon was recognized by her contemporaries as having tremendous influence on the music of the period.*                                                    |
 | *Horvath achieved success despite her disability.*               | *Horvath’s accomplishments were numerous.*                                                                                                                  |
+
 {: .note-title }
 > Consider
 >
@@ -76,7 +77,7 @@ Describe the subject’s work and the results of the work as opposed to using in
 
 ### Endnotes
 
-[^12]: Charlotte Lellman et al., “Guidelines for Inclusive and Conscientious Description” (Center for the History of Medicine, Francis A. Countway Library of Medicine, Boston, Mass, May 2020), [https://wiki.harvard.edu/confluence/display/hmschommanual/Guidelines+for+Inclusive+and+Conscientious+Description](https://wiki.harvard.edu/confluence/display/hmschommanual/Guidelines+for+Inclusive+and+Conscientious+Description).
+[^12]: Charlotte Lellman et al., “Guidelines for Inclusive and Conscientious Description” (Center for the History of Medicine, Francis A. Countway Library of Medicine, Boston, Mass, May 2020), [https://wiki.harvard.edu/confluence/display/hmschommanual/Guidelines+for+Inclusive+and+Conscientious+Description](https://wiki.harvard.edu/confluence/display/hmschommanual/Guidelines+for+Inclusive+and+Conscientious+Description)
 
 [^13]: Archives for Black Lives in Philadelphia’s Anti-Racist Description Working Group, “Anti-Racist Description Resources.”
 

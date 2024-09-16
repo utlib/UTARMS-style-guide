@@ -27,4 +27,4 @@ The following section outlines considerations and suggestions when describing pa
 
 ### Endnotes
 
-[^15]: Person-first language centres the individual recognizing there is more to each person than their descriptors; see: GBH, “Inclusive Language Guidelines - 2022 Edition,” 2022, [https://cdn.brandfolder.io/L9KW4PV0/at/bscbjf5khqcfcnfc7rfsgh3/Inclusive_Language_Guidelines.pdf](https://cdn.brandfolder.io/L9KW4PV0/at/bscbjf5khqcfcnfc7rfsgh3/Inclusive_Language_Guidelines.pdf).
+[^15]: Person-first language centres the individual recognizing there is more to each person than their descriptors; see: GBH, “Inclusive Language Guidelines - 2022 Edition,” 2022, [https://cdn.brandfolder.io/L9KW4PV0/at/bscbjf5khqcfcnfc7rfsgh3/Inclusive_Language_Guidelines.pdf](https://cdn.brandfolder.io/L9KW4PV0/at/bscbjf5khqcfcnfc7rfsgh3/Inclusive_Language_Guidelines.pdf)
