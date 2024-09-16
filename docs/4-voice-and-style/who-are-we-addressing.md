@@ -32,7 +32,7 @@ wide variety of potential users.
 >
 > {: .opaque }
 > <div markdown="block">
-> {: .warning-title }
+> {: .note-title }
 > Caution
 >
 > Consider the cultural dimensions of what you think requires explanation as these are also indicators of who we perceive our audience to be and whose experience might be centred within our descriptions.
