@@ -8,7 +8,7 @@ has_children: false
 # 9. Bibliography and Resources Consulted
 
 {: .note }
-> Also availabe in [Zotero](https://www.zotero.org/groups/5601061/utarms_descriptive_style_guide)
+> The following resources are also available through [Zotero](https://www.zotero.org/groups/5601061/utarms_descriptive_style_guide)
 
 4Rs Youth Movement. "Framework for Cross-Cultural Dialogue," [https://4rsyouth.ca/our-framework/](https://4rsyouth.ca/our-framework/)
 
