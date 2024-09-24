@@ -7,7 +7,7 @@ has_children: false
 ---
 
 # 6. Narrative description (Biographical History & Scope and Content)
-
+Biographical histories and scopes and content notes are areas of description that tend to be more interpretive, and /or focus directly on describing an individual and their actions. While other sections of the style guide also address key issues that can surface, the following are considerations specific to these fields.  
 ## 6.1 Valorizing language
 
 Narrative description provided in fields such as biographical or administrative histories, or scope and content can be especially prone to include valorizing language or interpretive accounts.
