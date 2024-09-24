@@ -16,7 +16,6 @@ Many individuals provided their knowledge and feedback on this document, for whi
 * Lucie Handley-Girard
 * Grant Hurley
 * Krista Jamieson
-* Tys Klumpenhouwer
 * Melissa Nelson
 * James Roussain
 * Natalya Rattan
