@@ -4,7 +4,7 @@ title: 5. INCLUSIVE LANGUAGE
 nav_order: 5
 permalink: /5-inclusive-language
 has_children: true
-has_toc: false
+has_toc: true
 ---
 
 # 5. Inclusive language 
