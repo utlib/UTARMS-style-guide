@@ -16,12 +16,12 @@ wide variety of potential users.
 
 * **Avoid using archival jargon.** Remember that your readers may be unfamiliar with archival terminology and ensure description is appropriate for a general audience.
 
-{: .important-title }
-> For example:
->
->  * Refer to different levels of description sparingly. When used and if possible, embed links to direct the reader.
->
->  * Select clear and recognizable terms if possible. Consider “miscellaneous documents” and “collected pamphlets” rather than terms such as “miscellany” or “ephemera”.
+
+    For example:
+
+  * Refer to different levels of description sparingly. When used and if possible, embed links to direct the reader.
+
+  * Select clear and recognizable terms if possible. Consider “miscellaneous documents” and “collected pamphlets” rather than terms such as “miscellany” or “ephemera”.
 
 * **Consider those outside of academic communities.**[^9] Where possible, provide explanatory information for concepts, references, or terms that are highly specialized.
 
