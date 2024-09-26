@@ -50,6 +50,8 @@ Revisions made in *Discover Archives* should be mirrored in the attached finding
 
 * [Finding Aid Version control procedures](https://connect.library.utoronto.ca/UTARMS/Policies%2C%20Procedures%2C%20and%20Guides/Policy%20and%20Procedures%20Manual/3.%20ARRANGEMENT%20and%20DESCRIPTION/3-xx-Finding-Aid-Version-Control/) (UTARMS internal documentation)
 
+---
+
 ### Endnotes
 
 [^47]: Freda Hawkins fonds, B1995-0007, Series 3 and 5, [https://discoverarchives.library.utoronto.ca/index.php/freda-hawkins-fonds](https://discoverarchives.library.utoronto.ca/index.php/freda-hawkins-fonds)

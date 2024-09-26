@@ -56,6 +56,8 @@ wide variety of potential users.
 
 Information about these considerations should be recorded and filed within the collection’s case file.
 
+---
+
 ### Endnotes
 
 [^7]: Technical Services Department, David M. Rubenstein Rare Book & Manuscript Library, “How We Describe” (Duke University, June 2021), [https://library.duke.edu/sites/default/files/rubenstein/pdf/HowWeDescribe_2021_06.pdf](https://library.duke.edu/sites/default/files/rubenstein/pdf/HowWeDescribe_2021_06.pdf)

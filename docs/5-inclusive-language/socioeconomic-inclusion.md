@@ -26,6 +26,8 @@ Kreckmann, Alison. “Socioeconomic Status.” In *The ACS Guide to Scholarly Co
 
 DC Fiscal Policy Institute. “DCFPI Style Guide for Inclusive Language,” 2017. [https://www.dcfpi.org/wp-content/uploads/2017/12/Style-Guide-for-Inclusive-Language_Dec-2017.pdf](https://www.dcfpi.org/wp-content/uploads/2017/12/Style-Guide-for-Inclusive-Language_Dec-2017.pdf)
 
+---
+
 ### Endnotes
 
 [^44]: Taken as direct quote. Western Libraries, “Western Libraries Inclusive Language Guide,” 26.

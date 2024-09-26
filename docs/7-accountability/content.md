@@ -37,6 +37,8 @@ Add a content warning when material includes disturbing or highly offensive cont
 
 ![Screenshot from a finding aid showing a file list with a content warning recorded as a footnote.]({{ site.baseurl }}/7-accountability/finding-aid-content-warning-example.png)
 
+---
+
 ### Endnotes
 
 [^49]: Maureen FitzGerald fonds, [https://discoverarchives.library.utoronto.ca/index.php/maureen-fitzgerald-fonds](https://discoverarchives.library.utoronto.ca/index.php/maureen-fitzgerald-fonds)

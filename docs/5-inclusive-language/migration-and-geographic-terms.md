@@ -34,6 +34,8 @@ When referencing contested geographic regions or occupied states, archivists inv
 
 International Centre for Migration Policy Development. “Reporting Migration: A Handbook on Migration Reporting for Journalists,” 2021. [https://www.icmpd.org/file/download/50559/file/Handbook0on0Reporting0Migration0EN.pdf](https://www.icmpd.org/file/download/50559/file/Handbook0on0Reporting0Migration0EN.pdf)
 
+---
+
 ### Endnotes
 
 [^37]: There are legal and social definitions to several terms related to migration. To ensure you are using the appropriate term (e.g. refugee vs migrant vs asylum seeker), refer to resources such as pages 6-8 of Nguyen, Vinh, and Thy Phu, eds. *Refugee States : Critical Refugee Studies in Canada*. Toronto: University of Toronto Press, 2021.

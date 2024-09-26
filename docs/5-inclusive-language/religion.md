@@ -25,6 +25,8 @@ Religion Link (Religion News Foundation), [https://religionlink.com/](https://re
 
 “Ethnic Media & Diversity Style Guide.” New Canadian Media, 2016. [https://newcanadianmedia.ca/wp-content/uploads/2019/03/Ethnic-Media-Style-Guide.pdf](https://newcanadianmedia.ca/wp-content/uploads/2019/03/Ethnic-Media-Style-Guide.pdf).
 
+---
+
 ### Endnotes
 
 [^45]: “Inclusive Writing: Religion, Faith and Belief,” University of Bristol - Style Guides, [https://www.bristol.ac.uk/style-guides/writing/inclusive/religion-faith-belief/](https://www.bristol.ac.uk/style-guides/writing/inclusive/religion-faith-belief/).

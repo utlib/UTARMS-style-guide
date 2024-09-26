@@ -18,6 +18,8 @@ When describing material related to Indigenous communities, key factors such as 
 
 * For a specific collection, where are other related archival resources held? Are there other locations that individuals would look for this material, and can the descriptions be connected, referenced or highlighted to improve discoverability? Actively gather information to accompany Indigenous archival collections.
 
+---
+
 ### Endnotes
 
 [^29]: As an example, see the [First Nations Principles of OCAP (Ownership, Control, Access, and Possession)](https://fnigc.ca/ocap-training/) which helps to guide how First Nations’ data and information should be collected, protected, used, or shared.

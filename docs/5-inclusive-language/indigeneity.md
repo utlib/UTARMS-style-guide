@@ -24,6 +24,8 @@ Chelsea Vowel, *Indigenous Writes: A Guide to First Nations, Métis & Inuit Issu
 
 Gregory Younging, *Elements of Indigenous Style: A Guide for Writing by and About Indigenous Peoples*. Edmonton, Alberta: Brush Education, 2018.
 
+---
+
 ### Endnotes
 
 [^28]: [Turtle Island](https://www.thecanadianencyclopedia.ca/en/article/turtle-island) is the name for North America used by Indigenous peoples of the Northeastern Woodlands, including the Anishnaabe and Haudenosaunee, whose lands the University of Toronto occupy.

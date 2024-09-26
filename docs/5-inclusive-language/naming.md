@@ -26,6 +26,8 @@ If a colonial anglicized name was previously used, research and use the Indigeno
 > 
 > Colonial anglicized name in the title of published work. In this instance preserve the title of the work but provide the traditional name(s) in the Note field of the description for optimal discoverability.
 
+---
+
 ### Endnotes
 
 [^36]: See also: “Table 6.1.3. Traditional names (endonyms) and appropriate descriptions of different Indigenous Peoples in Canada” in The Steering Committee on Canada’s Archives, “Reconciliation Framework: The Response to the Report of the Truth and Reconciliation Commission Taskforce,” 50–52.

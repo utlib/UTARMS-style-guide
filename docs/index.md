@@ -36,6 +36,8 @@ This guide was initially written by UTARMS Archivists, Daniela Ansovini and Emil
 
 Although we strive to address issues as we come across them, UTARMS’ commits to undertake a review of its descriptions every five years to ensure that archival descriptions are regularly maintained and updated with current terminology.
 
+---
+
 ### Endnotes
 
 [^1]: For further discussion of negative impacts of Eurocentric world views in archival description see, The Steering Committee on Canada’s Archives, “Reconciliation Framework: The Response to the Report of the Truth and Reconciliation Commission Taskforce”, 2022, 48, [https://archives2026.files.wordpress.com/2022/02/reconciliationframeworkreport_en.pdf](https://archives2026.files.wordpress.com/2022/02/reconciliationframeworkreport_en.pdf).

@@ -52,6 +52,8 @@ Avoid comments relating to an individual’s marital status or children within b
 
 Keep in mind power dynamics and relationships with regards to gender and family when it comes to the titling of fonds. For more information, see [8.1 Titling of fonds](/UTARMS-style-guide/8-mechanics/titling-of-fonds). This also applies to other description scenarios where power dynamics have shaped the relationships between creators. Similar consideration should be applied, and arrangement should follow suit.
 
+---
+
 ### Endnotes
 
 [^16]: The authors have chosen to address gender and sexual orientation as two distinct categories with the acknowledgement that these two aspects of identity sometimes overlap and are discussed together in different cultures and contexts.

@@ -45,6 +45,8 @@ Indigenous people may identify as and refer to themselves by different terms, in
 
 Avoid phrasing that is possessive and / or links groups with state entities within your archival descriptions. E.g., “Indigenous groups on Turtle Island” instead of “Canada’s First Nations”. Also, avoid language and phrasing that valorizes and misrepresents the activities of settlers (for example concepts of discovery, exploration, acculturation), and use specific terms for activities such as surveying, trading, specimen gathering, missionary work. Where possible, link these specific activities to their broader colonial purpose and context (i.e. missionary work conducted on behalf of the Catholic Church to convert and assimilate Indigenous peoples). Above all else, UTARMS describes individuals based on their own self-identification.
 
+---
+
 ### Endnotes
 
 [^30]: Government of Canada definitions can be read here: [https://www.sac-isc.gc.ca/eng/1100100032463/1572459644986#sec1](https://www.sac-isc.gc.ca/eng/1100100032463/1572459644986#sec1)

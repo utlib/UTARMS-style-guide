@@ -27,6 +27,8 @@ The following are general questions to consider before writing a new description
 
 * Whose perspective is being reflected when describing actions or roles? What research have you done about how to best describe people and activities documented in the material? Do the records include representations or depictions of behaviors and actions that could be racist, discriminatory, or otherwise harmful towards an individual or community? How can this content be harmful to the researchers, users, and subjects encountering the descriptions? Are you in a position to recognize potential harm or is additional guidance necessary?
 
+---
+
 ### Endnotes
 
 [^2]: Questions based on those from “How We Describe,” Technical Services Department, David M. Rubenstein Rare Book & Manuscript Library, Duke University, June 2021. [https://library.duke.edu/sites/default/files/rubenstein/pdf/HowWeDescribe_2021_06.pdf](https://library.duke.edu/sites/default/files/rubenstein/pdf/HowWeDescribe_2021_06.pdf)

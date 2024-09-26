@@ -48,6 +48,8 @@ In some cases, a community may be reclaiming certain terms, deemed offensive in 
 >
 > * **3x weight**: Name [access point](https://www.accesstomemory.org/en/docs/2.6/user-manual/glossary/glossary/#term-access-point), [Place](https://www.accesstomemory.org/en/docs/2.6/user-manual/glossary/glossary/#term-place) access point
 
+---
+
 ### Endnotes
 
 [^48]: Winnett, Frederick Victor (oral history), Library Oral History Programme Collection, B1980-0016. [https://discoverarchives.library.utoronto.ca/index.php/winnett-frederick-victor-oral-history](https://discoverarchives.library.utoronto.ca/index.php/winnett-frederick-victor-oral-history)

@@ -50,6 +50,8 @@ Wise, Hannah. “A Toolkit for Newsrooms to Better Serve the Disability Communit
 
 Community Resistance Intimacy Project (CRIP). “Resources & Links.” [https://www.criproject.com/resources](https://www.criproject.com/resources)
 
+---
+
 ### Endnotes
 
 [^26]: Be cautious of organizations that are run by individuals who do not have disabilities (sometimes charitable or advocacy organizations). Favour those that are community-led. For example: [https://autisticadvocacy.org/about-asan/](https://autisticadvocacy.org/about-asan/)

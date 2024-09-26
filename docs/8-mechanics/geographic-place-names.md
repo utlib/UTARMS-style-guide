@@ -26,6 +26,8 @@ If you come across a geographical name within a finding aid that is no longer in
 >
 > If the name is part of a publication title or the name of an institution (i.e. Peking Union Medical College, Rupertsland Centre for Métis Research)
 
+---
+
 ### Endnotes
 
 [^51]: Hastings (John E. F.) Family fonds, B2002-0014. John Elgin Ferguson Hastings sous-fonds, Series 5. [https://discoverarchives.library.utoronto.ca/index.php/other-professional-activities](https://discoverarchives.library.utoronto.ca/index.php/other-professional-activities)

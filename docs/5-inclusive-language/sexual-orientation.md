@@ -39,6 +39,8 @@ Language may change over time, and archivist-derived terminology will need to be
 
 The 519. “The 519 Glossary of Terms,” February 2020. [https://www.the519.org/education-training/glossary/](https://www.the519.org/education-training/glossary/).
 
+---
+
 ### Endnotes
 
 [^21]: The authors have chosen to address gender and sexual orientation as two distinct categories with the acknowledgement that these two aspects of identity sometimes overlap and are discussed together in different cultures and contexts.

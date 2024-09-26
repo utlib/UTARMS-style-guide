@@ -53,6 +53,7 @@ Below are some examples of general language suggestions. As there is ongoing deb
 
 Rachele Kanigel. “The Diversity Style Guide.” [https://www.diversitystyleguide.com/](https://www.diversitystyleguide.com/).
 
+---
 
 ### Endnotes
 

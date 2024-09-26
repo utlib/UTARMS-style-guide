@@ -75,6 +75,8 @@ Describe the subject’s work and the results of the work as opposed to using in
     
 * For example, if you are using a donor’s website to write a biographical note, cite it.
 
+---
+
 ### Endnotes
 
 [^12]: Charlotte Lellman et al., “Guidelines for Inclusive and Conscientious Description” (Center for the History of Medicine, Francis A. Countway Library of Medicine, Boston, Mass, May 2020), [https://wiki.harvard.edu/confluence/display/hmschommanual/Guidelines+for+Inclusive+and+Conscientious+Description](https://wiki.harvard.edu/confluence/display/hmschommanual/Guidelines+for+Inclusive+and+Conscientious+Description)
