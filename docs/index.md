@@ -10,7 +10,7 @@ has_children: false
 # UTARMS’ DESCRIPTIVE STYLE GUIDE
 Daniela Ansovini, Emily Sommers, and Tys Klumpenhouwer
 
-Last updated: 2024-08-29
+Last updated: 2024-09-27
 
 ---
 
