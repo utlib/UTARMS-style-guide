@@ -36,7 +36,7 @@ Outside of describing individuals with disability, archivists should be consciou
 | *was in crippling pain*                                                  | *was in severe pain*                                          |
 | *committed suicide* \[not a metaphor, but implies an offense committed\] | *died by suicide*                                             |
 
-Follow [guidance for accessible finding aids](https://utlib.github.io/discover-archives/documentation/discover-archives-accessibility) to ensure descriptions created follow a core accessibility standard.
+Follow [checklist for accessible finding aids](https://connect.library.utoronto.ca/UTARMS/Policies%2C%20Procedures%2C%20and%20Guides/10-Assessible-finding-aids/#) to ensure descriptions created follow a core accessibility standard.
 
 ### Additional resources:
 
